@@ -1,0 +1,1 @@
+C:\Users\Max60\IdeaProjects\sample\build\classes\kotlin\main\com\ex\ex\cmd.class;C:\Users\Max60\IdeaProjects\sample\build\classes\kotlin\main\com\ex\ex\events.class;C:\Users\Max60\IdeaProjects\sample\build\classes\kotlin\main\com\ex\ex\main.class

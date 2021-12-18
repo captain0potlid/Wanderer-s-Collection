@@ -1,0 +1,6 @@
+name: samplePlugin
+main: com.ex.ex.main
+version: 1.0.0
+author: captain0potlid
+commands:
+  ting:
